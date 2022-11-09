@@ -22,3 +22,7 @@ Functions can be called following a dot notation, e.g. `delivery.add_delivery_er
 ## Contributions
 
 The code contained in `+light_capture` was first developed by Will Tuten. Some of the functions in `+vid`, `+cone_select` and `+img` were provided by Ramkumar Sabesan. Wolf Harmening developed the original `vid.computetca` program, which has been lightly modified here for use with the current system in the Roorda lab. The UW toolbox was developed in the labs of Geoff Boynton and Ione Fine.
+
+## Test comment
+
+This is a test comment added by KTH.
